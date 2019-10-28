@@ -1,0 +1,22 @@
+.indmonster {
+    background: #fff9c7;
+    box-shadow: 0px 0px 2px 1px #fff9c7;
+    margin: 15px;
+    border-radius: 3px;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+.indmonster:hover {
+    box-shadow: 0px 0px 6px 1px #fff9c7;
+    transform: scale(1.1);
+}
+.h4name {
+    color: #3c3c3c;
+    margin: 5px 0;
+}
+.pemail{
+    color: #909090;
+    margin: 5px 0;
+    font-size: 12px;
+    text-transform: lowercase;
+}
